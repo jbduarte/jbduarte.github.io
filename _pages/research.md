@@ -25,7 +25,7 @@ author_profile: true
 - Europe Falling Behind: Structural Transformation and Labor Productivity Growth Differences Between Europe and the U.S. <br/>
 (with <a href="https://sites.google.com/site/luisfelipesaenz/" target="_blank">Luis Felipe Sáenz</a> and Cesare Buiatti), 2023
 
-  [WP PDF](/files/BDS2023_V2.pdf){: .btn}
+  [WP PDF](/files/BDS2023_v2.pdf){: .btn}
 
 
 # Work in Progress

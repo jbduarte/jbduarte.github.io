@@ -8,7 +8,7 @@ author_profile: true
 # Working Papers
 
 - The Short Lags of Monetary Policy <br/>
-(with Gergely Buda, Vasco Carvalho, Giancarlo Corsetti, Stephen Hansen, Afonso Moura, Alvaro Ortiz, Tomasa Rodrigo, José Rodríguez Mora, and Guilherme Silva), 2025
+(with Gergely Buda, Vasco Carvalho, Giancarlo Corsetti, Stephen Hansen, Afonso Moura, Alvaro Ortiz, Tomasa Rodrigo, José Rodríguez Mora, and Guilherme Silva), **Revise and Resubmit at the Journal of Political Economy**  2025
 
   [WP PDF](https://www.janeway.econ.cam.ac.uk/working-paper-pdfs/jiwp2504.pdf){: .btn} &nbsp; [Slides](/files/Short_and_Variable_Lags_slides.pdf){: .btn} &nbsp; [VoxEU](https://cepr.org/voxeu/columns/monetary-policy-also-has-short-run-effects){: .btn}
 

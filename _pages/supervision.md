@@ -16,30 +16,8 @@ author_profile: true
 
 ## Graduated
 
-<table>
-  <tr>
-    <th></th>
-    <th>Name</th>
-    <th>Placement</th>
-    <th>Webpage</th>
-  </tr>
-  <tr>
-    <td>
-      <div style="width: 120px; height: 120px; overflow: hidden;">
-        <img src="https://static.wixstatic.com/media/625041_8e3352426f824e28939a2c16332c44d2~mv2.png/v1/fill/w_604,h_1000,al_c,q_90,enc_auto/625041_8e3352426f824e28939a2c16332c44d2~mv2.png" width="120" height="180">
-      </div>
-    </td>
-    <td>João G. Oliveira</td>
-    <td>Bank of England</td>
-    <td><a href="https://www.joaogoliveira.com/">link</a></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://www.novasbe.unl.pt/Portals/0/Faculty/30585.jpg" width="120">
-    </td>
-    <td>Afonso S. Moura</td>
-    <td>Bank of Portugal</td>
-    <td><a href="https://sites.google.com/view/afonsosmoura/home">link</a></td>
-  </tr>
-</table>
+|                                                                                                                              | Name             | Placement         | Webpage                                                           |
+|:----------------------------------------------------------------------------------------------------------------------------:|------------------|-------------------|-------------------------------------------------------------------|
+| <div style="width: 120px; height: 120px; overflow: hidden;"><img src="https://static.wixstatic.com/media/625041_8e3352426f824e28939a2c16332c44d2~mv2.png/v1/fill/w_604,h_1000,al_c,q_90,enc_auto/625041_8e3352426f824e28939a2c16332c44d2~mv2.png" width="120" height="180"></div> | João G. Oliveira  | Bank of England    | [link](https://www.joaogoliveira.com/)                            |
+| <img src="https://www.novasbe.unl.pt/Portals/0/Faculty/30585.jpg" width="120">                                                                                      | Afonso S. Moura   | Bank of Portugal   | [link](https://sites.google.com/view/afonsosmoura/home)           |
 

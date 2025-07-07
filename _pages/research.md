@@ -15,7 +15,7 @@ author_profile: true
 - Technological Change and Earnings Inequality in the U.S.: Implications for Optimal Taxation <br/>
 (with <a href="https://pedrobrinca.pt/" target="_blank">Pedro Brinca</a>, <a href="https://sites.google.com/site/hansaholter/" target="_blank">Hans A. Holter</a> and <a href="https://www.joaogoliveira.com/" target="_blank">João G. Oliveira</a>), **Revise and Resubmit at the Review of Economic Studies** 2022
 
-  [SSRN PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4128417){: .btn}
+  [WP PDF](/files/BDHO2025.pdf){: .btn}
 
 - Monetary Policy and Homeownership: Empirical Evidence, Theory, and Policy Implications <br/>
 (with <a href="http://dabdias.weebly.com" target="_blank">Daniel A. Dias</a>), **Reject and Resubmit at the Journal of Monetary Economics** 2022

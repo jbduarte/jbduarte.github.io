@@ -7,6 +7,11 @@ author_profile: true
 
 # Working Papers
 
+- The Real and Financial Effects of Local Corporate Tax Increases: Evidence from Linked Firm–Bank Data <br/>
+  (with Afonso Moura)
+
+  [WP PDF](https://www.bportugal.pt/sites/default/files/documents/2025-09/WP202511.pdf){: .btn}
+
 - The Short Lags of Monetary Policy <br/>
 (with Gergely Buda, Vasco Carvalho, Giancarlo Corsetti, Stephen Hansen, Afonso Moura, Alvaro Ortiz, Tomasa Rodrigo, José Rodríguez Mora, and Guilherme Silva), **Revise and Resubmit at the Journal of Political Economy**  2025
 

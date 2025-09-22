@@ -8,7 +8,7 @@ author_profile: true
 # Working Papers
 
 - The Real and Financial Effects of Local Corporate Tax Increases: Evidence from Linked Firm–Bank Data <br/>
-  (with Afonso Moura)
+  (with Afonso Moura), 2025
 
   [WP PDF](https://www.bportugal.pt/sites/default/files/documents/2025-09/WP202511.pdf){: .btn}
 

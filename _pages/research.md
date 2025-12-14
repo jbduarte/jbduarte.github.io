@@ -7,9 +7,9 @@ author_profile: true
 
 # Working Papers
 
-- Financial integration and the
-transmission of monetary policy in the
-euro area <br/>
+- Financial Integration and the
+Transmission of Monetary Policy in the
+Euro Area <br/>
   (with Mariana N. Pires), 2025
 
   [WP PDF](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3165~0b3b657c29.en.pdf?59dfce560d6e4963633bd9392e27b2f8){: .btn}

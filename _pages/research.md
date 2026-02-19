@@ -33,9 +33,9 @@ author_profile: true
   [Fed Board IFDP PDF](https://www.federalreserve.gov/econres/ifdp/files/ifdp1344.pdf){: .btn} &nbsp; [RePEc PDF](https://mpra.ub.uni-muenchen.de/112990/8/MP_Homeownership.pdf){: .btn} &nbsp; [SSRN PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051926){: .btn}
 
 - Europe Falling Behind: Structural Transformation and Labor Productivity Growth Differences Between Europe and the U.S. <br/>
-  (with <a href="https://sites.google.com/site/luisfelipesaenz/" target="_blank">Luis Felipe Sáenz</a> and Cesare Buiatti), **Revise and Resubmit (2nd Round) at the Journal of International Economics**, 2024
+  (with <a href="https://sites.google.com/site/luisfelipesaenz/" target="_blank">Luis Felipe Sáenz</a> and Cesare Buiatti), **Revise and Resubmit (2nd Round) at the Journal of International Economics**, 2026
 
-  [WP PDF](/files/BDS2024.pdf){: .btn}
+  [WP PDF](/files/BDS2026.pdf){: .btn} &nbsp; [Code](https://github.com/jbduarte/europe-falling-behind-replication){: .btn}
 
 
 # Work in Progress

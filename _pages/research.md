@@ -32,10 +32,6 @@ author_profile: true
 
   [Fed Board IFDP PDF](https://www.federalreserve.gov/econres/ifdp/files/ifdp1344.pdf){: .btn} &nbsp; [RePEc PDF](https://mpra.ub.uni-muenchen.de/112990/8/MP_Homeownership.pdf){: .btn} &nbsp; [SSRN PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051926){: .btn}
 
-- Europe Falling Behind: Structural Transformation and Labor Productivity Growth Differences Between Europe and the U.S. <br/>
-  (with <a href="https://sites.google.com/site/luisfelipesaenz/" target="_blank">Luis Felipe Sáenz</a> and Cesare Buiatti), **Conditionally Accepted at the Journal of International Economics**, 2026
-
-  [WP PDF](/files/BDS2026.pdf){: .btn} &nbsp; [Code](https://github.com/jbduarte/europe-falling-behind-replication){: .btn}
 
 
 # Work in Progress
@@ -44,6 +40,11 @@ author_profile: true
   (with Vasco Carvalho)
 
 # Published Work
+
+- Europe Falling Behind: Structural Transformation and Labor Productivity Growth Differences Between Europe and the U.S. <br/>
+  (with Cesare Buiatti and <a href="https://sites.google.com/site/luisfelipesaenz/" target="_blank">Luis Felipe Sáenz</a>), **Journal of International Economics**, 2026
+
+  [PDF](https://doi.org/10.1016/j.jinteco.2026.104262){: .btn} &nbsp; [Code](https://github.com/jbduarte/europe-falling-behind-replication){: .btn}
 
 - The Effect of Monetary Policy on Household Consumption Expenditures in Portugal: A Decomposition of the Transmission Channel <br/>
   (with Nuno Pereira), **Portuguese Economic Journal**, 2022
